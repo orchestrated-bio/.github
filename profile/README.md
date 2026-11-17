@@ -2,27 +2,19 @@
 
 Preclinical asset diligence using public data.
 
-DrugAdopt examines public evidence on one drug asset in one indication.
-We report supporting and conflicting evidence, with unresolved questions
-and the measurements or datasets that could address them. Where public data
-can answer a question directly, we run the analysis and deliver the code
-with the result.
+DrugAdopt reviews one drug asset in one indication. We document what the
+public evidence supports, where findings conflict, and which questions remain
+open. When public datasets can answer a question directly, we run the analysis
+and deliver the code with the result. Each finding links to its sources, so
+your team can check the evidence before making a development decision.
 
-Findings name their measures and link to their sources. DrugAdopt presents
-evidence and judgments a reader can check. It does not recommend advancing,
-funding or licensing an asset. Those decisions stay with your team.
-
-- Website: [orchestrated.bio](https://orchestrated.bio)
-- Example report: [tolvaptan in ADPKD](https://orchestrated.bio/report.html)
-- Contact: [support@orchestrated.bio](mailto:support@orchestrated.bio)
+- [Read the example report on tolvaptan in ADPKD](https://orchestrated.bio/report.html)
+- [Visit orchestrated.bio](https://orchestrated.bio)
+- [Contact us](mailto:support@orchestrated.bio)
 
 ## On GitHub
 
-Our product code is private. The source of our website is public:
-
-| Repository | What it is |
-| --- | --- |
-| [orchestrated-bio.github.io](https://github.com/orchestrated-bio/orchestrated-bio.github.io) | The orchestrated.bio website: static HTML, CSS and JavaScript |
+The product repositories are private. The [company website source](https://github.com/orchestrated-bio/orchestrated-bio.github.io) is public.
 
 ## Team
 
