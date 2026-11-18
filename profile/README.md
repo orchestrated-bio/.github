@@ -1,12 +1,20 @@
 # Orchestrated Biosciences
 
-Preclinical asset diligence using public data.
+## DrugAdopt
 
-DrugAdopt reviews one drug asset in one indication. We document what the
-public evidence supports, where findings conflict, and which questions remain
-open. When public datasets can answer a question directly, we run the analysis
-and deliver the code with the result. Each finding links to its sources, so
-your team can check the evidence before making a development decision.
+Biomarker discovery is at the core of DrugAdopt. We analyze public data to
+find candidate markers of target engagement and investigate why patients
+may respond differently to a drug.
+
+For preclinical diligence, we focus on one drug asset in one indication.
+We weigh the evidence for each candidate marker alongside what’s known
+about disease biology, drug mechanism, exposure and safety. We explain
+where the evidence conflicts and which measurements or datasets could
+resolve open questions.
+
+When public data can answer a question directly, we run the analysis and
+share the code. Each finding links to its sources so your team can check
+the work.
 
 - [Read the example report on tolvaptan in ADPKD](https://orchestrated.bio/report.html)
 - [Visit orchestrated.bio](https://orchestrated.bio)
